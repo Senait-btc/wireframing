@@ -58,3 +58,55 @@ It defines how users complete tasks and ensures the interface supports their goa
 A booking form with dropdowns for date and time, and a submit button, allows users to schedule appointments.
 
 A search bar with auto-suggestions improves the user’s ability to find services quickly.
+# Types of Wireframes
+🔻 Low-Fidelity Wireframes
+✏️ Definition:
+Low-fidelity wireframes are basic sketches or outlines that focus on layout and flow rather than detail. They are often created using paper, whiteboards, or simple digital tools.
+
+📌 Characteristics:
+Minimal detail
+
+Placeholder content (e.g., “Image here”, “Button”)
+
+Black-and-white or grayscale
+
+Fast to create and easy to change
+
+🕒 When Used:
+Early stages of design
+
+Brainstorming and ideation
+
+Gathering stakeholder feedback
+
+Rapid prototyping and iteration
+
+💡 Example Contribution:
+Helps teams quickly explore multiple layout options and user flows without investing time in visuals.
+
+🔺 High-Fidelity Wireframes
+🖥️ Definition:
+High-fidelity wireframes are detailed and polished mockups that closely resemble the final product. They often include real content, precise spacing, and interactive elements.
+
+📌 Characteristics:
+Accurate layout and spacing
+
+Real or representative content
+
+Visual styling (fonts, colors, icons)
+
+May include clickable prototypes
+
+🕒 When Used:
+Later stages of design
+
+Usability testing
+
+Developer handoff
+
+Stakeholder presentations
+
+💡 Example Contribution:
+Clarifies exactly how the interface will look and behave, reducing ambiguity during development.
+# explain what type of wire frame
+High-fidelity wireframes
