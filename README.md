@@ -110,3 +110,29 @@ Stakeholder presentations
 Clarifies exactly how the interface will look and behave, reducing ambiguity during development.
 # explain what type of wire frame
 High-fidelity wireframes
+# discussing popular wireframing tools
+🎨 Figma: A Recommended Tool for Wireframing
+🧾 What Is Figma?
+Figma is a cloud-based design and prototyping tool that allows teams to collaborate in real time. It's widely used for creating wireframes, mockups, and high-fidelity UI designs—all within a browser or desktop app.
+
+🚀 Key Features for Wireframing
+Drag-and-Drop Interface: Easily build wireframes using pre-made shapes, frames, and components.
+
+Real-Time Collaboration: Multiple users can edit and comment simultaneously—perfect for remote teams.
+
+Reusable Components: Create and reuse design elements across screens to maintain consistency.
+
+Version History: Track changes and revert to earlier versions if needed.
+
+Interactive Prototyping: Link wireframe elements to simulate user flows and navigation.
+
+Cross-Platform Access: Works on Windows, macOS, and in any modern browser.
+
+🌟 Why Figma Is Great for Wireframing
+Fast Iteration: Quickly sketch ideas and refine layouts without switching tools.
+
+Team-Friendly: Designers, developers, and stakeholders can collaborate in one shared space.
+
+Scalable: Start with low-fidelity wireframes and evolve into high-fidelity designs seamlessly.
+
+Accessible: No installation required—just log in and start designing.
